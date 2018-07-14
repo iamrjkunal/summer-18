@@ -1,0 +1,15 @@
+643, output3.c, 10185, 2, 0, 2, 5, 1, parse_obsolete_option 
+654, output3.c, 10590, 4, 0, 2, 1, 1, parse_options 
+662, output3.c, 10763, 10, 1, 1, 6, 4, main 
+667, output3.c, 10867, 14, 1, 1, 6, 4, main 
+621, output3.c, 9932, 26, 2, 2, 3, 1, tail_file 
+435, output3.c, 7590, 29, 2, 3, 0, 0, pretty_name 
+615, output3.c, 9841, 34, 3, 3, 3, 1, tail 
+463, output3.c, 7852, 47, 6, 4, 4, 1, xlseek 
+602, output3.c, 9770, 48, 5, 3, 3, 3, tail_lines 
+608, output3.c, 9783, 49, 4, 3, 3, 3, tail_lines 
+499, output3.c, 8412, 57, 3, 3, 5, 2, pipe_lines 
+630, output3.c, 10086, 61, 3, 2, 4, 3, tail_file 
+631, output3.c, 10096, 62, 2, 2, 4, 3, tail_file 
+633, output3.c, 10104, 63, 1, 2, 4, 3, tail_file 
+670, output3.c, 10910, 64, 1, 1, 7, 4, main 

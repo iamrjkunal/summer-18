@@ -1,0 +1,4 @@
+77, output4.c, 6144, operand2sig
+85, output4.c, 6177, operand2sig
+127, output4.c, 6497, main
+72, output4.c, 6063, usage

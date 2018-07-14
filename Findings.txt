@@ -1,0 +1,27 @@
+Folder CAT: Files in Folder 1 and 2,3 differ only in trace length and KLEE has found bug in Folder 1 but not in 2,3
+**Folder FMT: Files in folder 2,3,4 are exactly same, but AFL found bug in 2,3 but not in 4 meaning given data is not enough to make predictions
+            Also file in folder 1 has only one line of extra information compared to 2,3,4
+Folder ECHO: KLEE has found bug in files of Folder 2,3 which have lower values of trace length compared to Folder 1,4 in which trace length is high
+             Rest of information is same in all folders
+Folder EXPR: AFL has found bug in files of Folder 2,4 the only visible differences between the files is higher value of trace length for folder 1
+Folder PATHCHK: KLEE has found bug in files of folders 2,3,4, files 2,3 have significantly lower values of trace_length compared to files of folders 
+                1,4 while other values are almost same.
+**Folder PINKY: AFL has found bug in only folder 4 despite the fact that files in folders 2,3,4 are almost same and diifer with file in 1 at just one line
+Folder PTX: KLEE has found bug in file of folder 1 only, while file 1,4 only differ in values of trace_length and file 1,3 differ at 2 lines
+Folder STAT: KLEE has found bug in files of folders 1,2,3; *files 1 and 4 differ by only one line*
+Folder TEST: KLEE has found bug in files of folders 1,3,4 file in folder 2 has higher values of trace_length,global_nesting_depth compared to
+             others. Files in folders 1,4 have negative values of global_nesting_depth
+Folder TOUCH: AFL has found bug in only file of folder 1, only visible diiference between files of folder 1 and 2,3,4 is greater value of call depth
+              in folder 1
+Folder UNIQ: AFL has found bug in files of Folder 2,3,4 ; file in folder 1 has smaller values of features(trace_length etc.) compared to 
+             folders 2,3,4 in which values are similar
+Folder WHO: AFL has found bug in files of Folder 2,3 despite the fact that files in Folder 1,2,3 are very similar and significantly different
+            from file in Folder 4
+
+I have noticed that files in same folder are similar to each other and files in different folders are significantly diferent. The problem arises
+in the folders where AFL or KLEE has found bug in some files and not in others. Because these files are very similar to each other(sometimes differing
+by a single line), it is very difficult for any ML or statistical model to account for this as the feature values for these files will have similar
+values but the target value will be different. **In folder FMT, there are two files which are exactly same but bug has been found for one and not 
+for the other which might mean that this data is not sufficient to predict the behaviour of AFL or KLEE. The only visible feature affecting whether 
+bug is found is trace_length, but it is not uniform as well. There are files with both small and large values of trace_length in which bug was not found.
+Because of this thresholding doesn't work for Association Rules and we are not getting a single good rule from it.

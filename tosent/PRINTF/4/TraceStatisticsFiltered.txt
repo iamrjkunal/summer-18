@@ -1,0 +1,8 @@
+402, output3.c, 7129, 538, 3, 5, 0, 0, verify_numeric 
+406, output3.c, 7149, 539, 3, 4, 0, 0, vstrtoimax 
+408, output3.c, 7151, 540, 2, 4, 0, 0, vstrtoimax 
+438, output3.c, 7650, 541, 2, 3, 6, 2, print_direc 
+440, output3.c, 7904, 542, 2, 2, 10, 1, print_formatted 
+440, output3.c, 7904, 544, 2, 2, 11, 1, print_formatted 
+442, output3.c, 7908, 545, 1, 2, 11, 1, print_formatted 
+451, output3.c, 8115, 546, 1, 1, 4, 3, main 

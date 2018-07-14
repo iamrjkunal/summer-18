@@ -1,0 +1,4 @@
+470, output4.c, 6992, main
+471, output4.c, 6994, main
+446, output4.c, 6607, check_file
+461, output4.c, 6732, check_file

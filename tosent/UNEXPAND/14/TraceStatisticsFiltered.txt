@@ -1,0 +1,7 @@
+418, output3.c, 7349, 6, 0, 2, 2, 1, validate_tab_stops 
+468, output3.c, 8146, 8, 1, 1, 2, 1, main 
+428, output3.c, 7490, 19, 2, 3, 2, 1, next_file 
+422, output3.c, 7418, 33, 3, 3, 1, 1, next_file 
+429, output3.c, 7515, 34, 2, 3, 1, 1, next_file 
+451, output3.c, 7867, 36, 3, 2, 15, 2, unexpand 
+458, output3.c, 7884, 38, 3, 2, 15, 2, unexpand 

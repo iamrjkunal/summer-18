@@ -1,0 +1,10 @@
+480, output3.c, 8227, 28, 4, 5, 2, 1, get_space 
+468, output3.c, 8142, 30, 4, 4, 2, 2, get_prefix 
+474, output3.c, 8180, 31, 3, 4, 2, 2, get_prefix 
+452, output3.c, 7959, 35, 4, 5, 2, 1, copy_rest 
+442, output3.c, 7788, 37, 5, 4, 3, 2, get_paragraph 
+432, output3.c, 7685, 38, 3, 3, 1, 1, fmt 
+417, output3.c, 7533, 41, 3, 2, 0, 1, main 
+419, output3.c, 7550, 42, 2, 2, 0, 1, main 
+420, output3.c, 7553, 43, 1, 2, 0, 1, main 
+421, output3.c, 7556, 44, 0, 2, 0, 1, main 

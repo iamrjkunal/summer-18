@@ -1,0 +1,4 @@
+470, output3.c, 8110, 3, 2, 1, 5, 1, main 
+471, output3.c, 8113, 4, 1, 1, 5, 1, main 
+446, output3.c, 7612, 130, 4, 2, 1, 1, check_file 
+461, output3.c, 7804, 131, 3, 2, 1, 1, check_file 

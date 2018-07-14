@@ -1,0 +1,6 @@
+465, output4.c, 8197, main
+450, output4.c, 7974, nl_file
+446, output4.c, 7942, process_file
+455, output4.c, 7989, nl_file
+468, output4.c, 8263, main
+469, output4.c, 8265, main

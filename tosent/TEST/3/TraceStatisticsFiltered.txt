@@ -1,0 +1,6 @@
+451, output3.c, 7266, 6, 0, 4, 0, 0, binop 
+464, output3.c, 7456, 14, 2, 4, 3, 1, binary_operator 
+475, output3.c, 7602, 20, 2, 4, 3, 1, binary_operator 
+535, output3.c, 8082, 21, 1, 3, 1, 1, three_arguments 
+537, output3.c, 8113, 22, 0, 3, 1, 1, three_arguments 
+541, output3.c, 8182, 23, 0, 2, 1, 1, posixtest 

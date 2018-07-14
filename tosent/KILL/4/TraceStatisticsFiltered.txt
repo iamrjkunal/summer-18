@@ -1,0 +1,4 @@
+77, output3.c, 6370, 4, 2, 2, 1, 1, operand2sig 
+85, output3.c, 6424, 5, 1, 2, 1, 1, operand2sig 
+127, output3.c, 6929, 6, 1, 1, 1, 1, main 
+72, output3.c, 6275, 12, 2, 2, 1, 1, usage 

@@ -1,0 +1,9 @@
+138, output3.c, 7111, 2, 1, 1, 3, 1, main 
+139, output3.c, 7121, 8, 1, 1, 3, 1, main 
+101, output3.c, 6465, 12, 2, 2, 0, 0, get_reldate 
+148, output3.c, 7222, 13, 1, 2, 0, 0, main 
+149, output3.c, 7225, 14, 0, 2, 0, 0, main 
+112, output3.c, 6647, 18, 1, 3, 3, 1, touch 
+114, output3.c, 6681, 20, 1, 3, 4, 1, touch 
+126, output3.c, 6757, 21, 0, 3, 4, 1, touch 
+156, output3.c, 7301, 22, 0, 2, 1, 1, main 

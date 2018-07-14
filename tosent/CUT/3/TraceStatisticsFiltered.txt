@@ -1,0 +1,16 @@
+495, output3.c, 8576, 2, 1, 1, 1, 1, main 
+431, output3.c, 7740, 7, 1, 2, 11, 1, set_fields 
+432, output3.c, 7755, 11, 2, 2, 14, 1, set_fields 
+433, output3.c, 7758, 12, 1, 2, 14, 1, set_fields 
+401, output3.c, 7279, 16, 2, 3, 2, 1, mark_printable_field 
+435, output3.c, 7796, 17, 2, 2, 14, 1, set_fields 
+436, output3.c, 7799, 18, 1, 2, 14, 1, set_fields 
+439, output3.c, 7815, 19, 0, 2, 14, 1, set_fields 
+509, output3.c, 8686, 21, 1, 1, 1, 1, main 
+510, output3.c, 8703, 23, 1, 1, 1, 1, main 
+479, output3.c, 8290, 27, 2, 2, 0, 1, cut_file 
+471, output3.c, 7992, 39, 3, 4, 4, 2, cut_fields 
+477, output3.c, 8260, 40, 2, 3, 0, 1, cut_stream 
+483, output3.c, 8336, 42, 2, 2, 0, 1, cut_file 
+488, output3.c, 8351, 43, 1, 2, 0, 1, cut_file 
+511, output3.c, 8712, 44, 1, 1, 2, 1, main 

@@ -1,0 +1,8 @@
+557, output3.c, 8875, 3, 1, 2, 2, 1, string_to_integer 
+568, output3.c, 9179, 4, 1, 1, 4, 1, main 
+546, output3.c, 8771, 16, 2, 2, 5, 1, head_file 
+540, output3.c, 8673, 19, 2, 3, 4, 1, head 
+511, output3.c, 8442, 23, 3, 3, 4, 2, head_bytes 
+518, output3.c, 8491, 28, 3, 3, 4, 3, head_bytes 
+551, output3.c, 8800, 31, 1, 2, 6, 2, head_file 
+572, output3.c, 9236, 32, 1, 1, 5, 2, main 

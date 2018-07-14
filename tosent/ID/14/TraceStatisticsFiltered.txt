@@ -1,0 +1,7 @@
+147, output3.c, 6888, 6, 1, 1, 2, 1, main 
+157, output3.c, 7011, 8, 1, 1, 2, 1, main 
+171, output3.c, 7199, 12, 1, 3, 1, 1, print_group 
+173, output3.c, 7218, 13, 0, 3, 1, 1, print_group 
+171, output3.c, 7199, 16, 0, 4, 1, 1, print_group 
+173, output3.c, 7218, 17, -1, 4, 1, 1, print_group 
+180, output3.c, 7291, 18, -2, 4, 1, 1, print_group_list 

@@ -1,0 +1,6 @@
+451, output4.c, 6329, binop
+464, output4.c, 6461, binary_operator
+475, output4.c, 6566, binary_operator
+535, output4.c, 6897, three_arguments
+537, output4.c, 6924, three_arguments
+541, output4.c, 6979, posixtest

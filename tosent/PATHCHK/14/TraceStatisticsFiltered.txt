@@ -1,0 +1,13 @@
+403, output3.c, 7687, 2, 1, 1, 2, 1, main 
+417, output3.c, 7853, 585, 2, 3, 2, 1, portable_chars_only 
+432, output3.c, 8008, 586, 2, 2, 4, 1, validate_file_name 
+435, output3.c, 8085, 589, 3, 2, 4, 1, validate_file_name 
+439, output3.c, 8154, 590, 2, 2, 4, 1, validate_file_name 
+422, output3.c, 7886, 593, 2, 3, 0, 1, component_start 
+443, output3.c, 8234, 596, 4, 2, 5, 2, validate_file_name 
+426, output3.c, 7911, 603, 4, 3, 0, 1, component_len 
+448, output3.c, 8356, 604, 3, 2, 5, 2, validate_file_name 
+422, output3.c, 7886, 606, 2, 3, 0, 1, component_start 
+449, output3.c, 8362, 607, 2, 2, 5, 2, validate_file_name 
+459, output3.c, 8375, 608, 1, 2, 5, 2, validate_file_name 
+405, output3.c, 7726, 609, 1, 1, 3, 1, main 

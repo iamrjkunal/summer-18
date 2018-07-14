@@ -1,0 +1,2 @@
+595, output4.c, 7427, do_stat
+610, output4.c, 7737, main

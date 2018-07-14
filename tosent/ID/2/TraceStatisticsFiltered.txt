@@ -1,0 +1,5 @@
+147, output3.c, 6861, 4, 1, 1, 2, 1, main 
+157, output3.c, 6975, 6, 1, 1, 2, 1, main 
+164, output3.c, 7066, 10, 2, 2, 1, 1, print_user 
+166, output3.c, 7079, 11, 1, 2, 1, 1, print_user 
+158, output3.c, 6983, 12, 0, 2, 1, 1, main 

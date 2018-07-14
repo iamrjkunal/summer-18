@@ -1,0 +1,5 @@
+438, output3.c, 7650, 539, 2, 3, 6, 2, print_direc 
+440, output3.c, 7904, 540, 2, 2, 12, 1, print_formatted 
+440, output3.c, 7904, 542, 2, 2, 13, 1, print_formatted 
+442, output3.c, 7908, 543, 1, 2, 13, 1, print_formatted 
+451, output3.c, 8115, 544, 1, 1, 4, 3, main 

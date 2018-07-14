@@ -1,0 +1,5 @@
+546, output3.c, 8771, 14, 2, 2, 5, 1, head_file 
+539, output3.c, 8661, 17, 2, 3, 4, 1, head 
+527, output3.c, 8590, 24, 3, 3, 2, 1, head_lines 
+551, output3.c, 8800, 27, 1, 2, 6, 2, head_file 
+572, output3.c, 9236, 28, 1, 1, 4, 2, main 

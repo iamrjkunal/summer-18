@@ -1,0 +1,5 @@
+438, output4.c, 6678, print_direc
+440, output4.c, 6890, print_formatted
+440, output4.c, 6890, print_formatted
+442, output4.c, 6898, print_formatted
+451, output4.c, 7046, main

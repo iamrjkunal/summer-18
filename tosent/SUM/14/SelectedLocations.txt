@@ -1,0 +1,6 @@
+446, output4.c, 6729, main
+419, output4.c, 6537, sysv_sum_file
+434, output4.c, 6625, sysv_sum_file
+439, output4.c, 6631, sysv_sum_file
+448, output4.c, 6749, main
+449, output4.c, 6757, main

@@ -1,0 +1,13 @@
+408, output3.c, 7231, 6, 2, 2, 4, 1, parse_tab_stops 
+400, output3.c, 7102, 10, 3, 3, 3, 1, add_tab_stop 
+402, output3.c, 7124, 12, 3, 3, 3, 2, add_tab_stop 
+404, output3.c, 7127, 13, 2, 3, 3, 2, add_tab_stop 
+412, output3.c, 7249, 14, 2, 2, 4, 1, parse_tab_stops 
+465, output3.c, 8019, 15, 1, 1, 2, 1, main 
+416, output3.c, 7303, 20, 1, 2, 3, 1, validate_tab_stops 
+418, output3.c, 7306, 21, 0, 2, 3, 1, validate_tab_stops 
+428, output3.c, 7429, 32, 2, 3, 2, 1, next_file 
+422, output3.c, 7366, 46, 3, 3, 1, 1, next_file 
+429, output3.c, 7445, 47, 2, 3, 1, 1, next_file 
+451, output3.c, 7788, 49, 3, 2, 15, 2, unexpand 
+458, output3.c, 7796, 51, 3, 2, 15, 2, unexpand 

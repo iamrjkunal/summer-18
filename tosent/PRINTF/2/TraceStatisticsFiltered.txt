@@ -1,0 +1,13 @@
+440, output3.c, 7904, 8, 2, 2, 6, 1, print_formatted 
+440, output3.c, 7904, 10, 2, 2, 7, 1, print_formatted 
+440, output3.c, 7904, 12, 2, 2, 8, 1, print_formatted 
+440, output3.c, 7904, 14, 2, 2, 9, 1, print_formatted 
+440, output3.c, 7904, 16, 2, 2, 10, 1, print_formatted 
+440, output3.c, 7904, 18, 2, 2, 11, 1, print_formatted 
+440, output3.c, 7904, 20, 2, 2, 12, 1, print_formatted 
+440, output3.c, 7904, 22, 2, 2, 13, 1, print_formatted 
+440, output3.c, 7904, 24, 2, 2, 14, 1, print_formatted 
+440, output3.c, 7904, 26, 2, 2, 15, 1, print_formatted 
+440, output3.c, 7904, 28, 2, 2, 16, 1, print_formatted 
+442, output3.c, 7908, 29, 1, 2, 16, 1, print_formatted 
+451, output3.c, 8115, 30, 1, 1, 4, 3, main 

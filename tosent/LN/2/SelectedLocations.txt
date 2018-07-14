@@ -1,0 +1,7 @@
+124, output4.c, 6831, main
+124, output4.c, 6831, main
+75, output4.c, 6239, target_directory_operand
+97, output4.c, 6477, do_link
+98, output4.c, 6479, do_link
+112, output4.c, 6534, do_link
+136, output4.c, 6971, main

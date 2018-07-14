@@ -1,0 +1,6 @@
+465, output3.c, 9232, 2, 1, 1, 2, 1, main 
+450, output3.c, 8959, 123, 3, 2, 1, 1, nl_file 
+446, output3.c, 8908, 136, 2, 3, 1, 1, process_file 
+455, output3.c, 8980, 139, 2, 2, 1, 1, nl_file 
+468, output3.c, 9341, 140, 2, 1, 5, 2, main 
+469, output3.c, 9344, 141, 1, 1, 5, 2, main 

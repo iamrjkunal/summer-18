@@ -1,0 +1,99 @@
+,antecedants,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+6,frozenset({'trace_length_max'}),frozenset({'AFL_data'}),0.1,0.475,0.066666667,0.666666667,1.403508772,0.019166667,1.575
+23,frozenset({'trace_length_median'}),frozenset({'AFL_data'}),0.1,0.475,0.066666667,0.666666667,1.403508772,0.019166667,1.575
+96,"frozenset({'trace_length_max', 'trace_length_median'})",frozenset({'AFL_data'}),0.1,0.475,0.066666667,0.666666667,1.403508772,0.019166667,1.575
+670,"frozenset({'global_nesting_depth_max', 'global_nesting_depth_median', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.441666667,0.475,0.233333333,0.528301887,1.112214499,0.023541667,1.113
+203,"frozenset({'global_nesting_depth_max', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.441666667,0.475,0.233333333,0.528301887,1.112214499,0.023541667,1.113
+184,"frozenset({'global_nesting_depth_max', 'call_depth_max_neg'})",frozenset({'AFL_data'}),0.441666667,0.475,0.233333333,0.528301887,1.112214499,0.023541667,1.113
+142,"frozenset({'global_nesting_depth_max', 'global_nesting_depth_median'})",frozenset({'AFL_data'}),0.441666667,0.475,0.233333333,0.528301887,1.112214499,0.023541667,1.113
+1681,"frozenset({'global_nesting_depth_max', 'call_depth_max_neg', 'global_nesting_depth_median', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.441666667,0.475,0.233333333,0.528301887,1.112214499,0.023541667,1.113
+626,"frozenset({'global_nesting_depth_max', 'call_depth_max_neg', 'global_nesting_depth_median'})",frozenset({'AFL_data'}),0.441666667,0.475,0.233333333,0.528301887,1.112214499,0.023541667,1.113
+18,frozenset({'global_nesting_depth_max'}),frozenset({'AFL_data'}),0.441666667,0.475,0.233333333,0.528301887,1.112214499,0.023541667,1.113
+795,"frozenset({'global_nesting_depth_max', 'call_depth_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.441666667,0.475,0.233333333,0.528301887,1.112214499,0.023541667,1.113
+781,"frozenset({'global_nesting_depth_max', 'call_depth_max_neg', 'trace_length_median_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+654,"frozenset({'global_nesting_depth_max', 'global_nesting_depth_median', 'trace_length_median_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+711,"frozenset({'global_nesting_depth_max', 'call_depth_max_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+586,"frozenset({'global_nesting_depth_max', 'global_nesting_depth_median', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+740,"frozenset({'global_nesting_depth_max', 'trace_length_median_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+754,"frozenset({'global_nesting_depth_max', 'trace_length_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+1771,"frozenset({'global_nesting_depth_max', 'call_depth_max_neg', 'trace_length_median_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+810,"frozenset({'global_nesting_depth_max', 'trace_length_median_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+1831,"frozenset({'global_nesting_depth_max', 'trace_length_median_neg', 'trace_length_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+1711,"frozenset({'global_nesting_depth_max', 'global_nesting_depth_median', 'trace_length_median_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+1651,"frozenset({'global_nesting_depth_max', 'call_depth_max_neg', 'global_nesting_depth_median', 'trace_length_median_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+1591,"frozenset({'global_nesting_depth_max', 'global_nesting_depth_median', 'trace_length_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+1561,"frozenset({'global_nesting_depth_max', 'global_nesting_depth_median', 'trace_length_median_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+1501,"frozenset({'global_nesting_depth_max', 'call_depth_max_neg', 'global_nesting_depth_median', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+1801,"frozenset({'global_nesting_depth_max', 'call_depth_max_neg', 'trace_length_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+1861,"frozenset({'global_nesting_depth_max', 'call_depth_max_neg', 'trace_length_median_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+2816,"frozenset({'global_nesting_depth_median', 'call_depth_median_neg', 'global_nesting_depth_max', 'trace_length_median_neg', 'call_depth_max_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+2630,"frozenset({'global_nesting_depth_median', 'global_nesting_depth_max', 'trace_length_median_neg', 'trace_length_max_neg', 'call_depth_max_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+2878,"frozenset({'call_depth_median_neg', 'global_nesting_depth_max', 'trace_length_median_neg', 'trace_length_max_neg', 'call_depth_max_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+167,"frozenset({'global_nesting_depth_max', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+197,"frozenset({'global_nesting_depth_max', 'trace_length_median_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+2754,"frozenset({'global_nesting_depth_median', 'call_depth_median_neg', 'global_nesting_depth_max', 'trace_length_median_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+2692,"frozenset({'global_nesting_depth_median', 'call_depth_median_neg', 'global_nesting_depth_max', 'trace_length_max_neg', 'call_depth_max_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+3374,"frozenset({'global_nesting_depth_median', 'call_depth_median_neg', 'global_nesting_depth_max', 'trace_length_median_neg', 'trace_length_max_neg', 'call_depth_max_neg'})",frozenset({'AFL_data'}),0.383333333,0.475,0.2,0.52173913,1.098398169,0.017916667,1.097727273
+303,"frozenset({'global_nesting_depth_median', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.966666667,0.475,0.441666667,0.456896552,0.961887477,-0.0175,0.966666667
+283,"frozenset({'call_depth_max_neg', 'global_nesting_depth_median'})",frozenset({'AFL_data'}),0.966666667,0.475,0.441666667,0.456896552,0.961887477,-0.0175,0.966666667
+416,"frozenset({'call_depth_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.966666667,0.475,0.441666667,0.456896552,0.961887477,-0.0175,0.966666667
+1082,"frozenset({'call_depth_max_neg', 'global_nesting_depth_median', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.966666667,0.475,0.441666667,0.456896552,0.961887477,-0.0175,0.966666667
+34,frozenset({'global_nesting_depth_median'}),frozenset({'AFL_data'}),0.966666667,0.475,0.441666667,0.456896552,0.961887477,-0.0175,0.966666667
+65,frozenset({'call_depth_median_neg'}),frozenset({'AFL_data'}),0.966666667,0.475,0.441666667,0.456896552,0.961887477,-0.0175,0.966666667
+58,frozenset({'call_depth_max_neg'}),frozenset({'AFL_data'}),0.966666667,0.475,0.441666667,0.456896552,0.961887477,-0.0175,0.966666667
+3188,"frozenset({'global_nesting_depth_median', 'call_depth_median_neg', 'trace_length_median_neg', 'trace_length_max_neg', 'call_depth_max_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+1307,"frozenset({'call_depth_max_neg', 'trace_length_median_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+1237,"frozenset({'trace_length_median_neg', 'trace_length_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+1209,"frozenset({'call_depth_max_neg', 'trace_length_median_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+2461,"frozenset({'call_depth_max_neg', 'trace_length_median_neg', 'trace_length_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+2311,"frozenset({'call_depth_max_neg', 'global_nesting_depth_median', 'trace_length_median_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+2161,"frozenset({'global_nesting_depth_median', 'trace_length_median_neg', 'trace_length_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+2131,"frozenset({'call_depth_max_neg', 'global_nesting_depth_median', 'trace_length_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+2101,"frozenset({'call_depth_max_neg', 'global_nesting_depth_median', 'trace_length_median_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+1222,"frozenset({'call_depth_max_neg', 'trace_length_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+1098,"frozenset({'global_nesting_depth_median', 'trace_length_median_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+362,"frozenset({'trace_length_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+957,"frozenset({'global_nesting_depth_median', 'trace_length_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+344,"frozenset({'call_depth_max_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+295,"frozenset({'global_nesting_depth_median', 'trace_length_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+243,"frozenset({'global_nesting_depth_median', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+410,"frozenset({'call_depth_max_neg', 'trace_length_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+423,"frozenset({'trace_length_median_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+63,frozenset({'trace_length_median_neg'}),frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+944,"frozenset({'global_nesting_depth_median', 'trace_length_median_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+914,"frozenset({'call_depth_max_neg', 'global_nesting_depth_median', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+1067,"frozenset({'call_depth_max_neg', 'global_nesting_depth_median', 'trace_length_median_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+45,frozenset({'trace_length_max_neg'}),frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+357,"frozenset({'trace_length_median_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.9,0.475,0.408333333,0.453703704,0.955165692,-0.019166667,0.961016949
+53,frozenset({'global_nesting_depth_max_neg'}),frozenset({'AFL_data'}),0.558333333,0.475,0.241666667,0.432835821,0.911233307,-0.023541667,0.925657895
+3003,"frozenset({'global_nesting_depth_median', 'trace_length_median_neg', 'trace_length_max_neg', 'call_depth_max_neg', 'global_nesting_depth_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+3065,"frozenset({'global_nesting_depth_median', 'call_depth_median_neg', 'trace_length_max_neg', 'call_depth_max_neg', 'global_nesting_depth_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+2282,"frozenset({'global_nesting_depth_median', 'trace_length_median_neg', 'global_nesting_depth_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+3127,"frozenset({'global_nesting_depth_median', 'call_depth_median_neg', 'trace_length_median_neg', 'trace_length_max_neg', 'global_nesting_depth_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+3251,"frozenset({'global_nesting_depth_median', 'call_depth_median_neg', 'trace_length_median_neg', 'call_depth_max_neg', 'global_nesting_depth_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+3313,"frozenset({'call_depth_median_neg', 'trace_length_median_neg', 'trace_length_max_neg', 'call_depth_max_neg', 'global_nesting_depth_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+327,"frozenset({'global_nesting_depth_max_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+2492,"frozenset({'call_depth_max_neg', 'trace_length_median_neg', 'global_nesting_depth_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+2432,"frozenset({'global_nesting_depth_max_neg', 'trace_length_median_neg', 'trace_length_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+2402,"frozenset({'call_depth_max_neg', 'trace_length_max_neg', 'global_nesting_depth_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+2372,"frozenset({'call_depth_max_neg', 'trace_length_median_neg', 'global_nesting_depth_max_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+1181,"frozenset({'trace_length_max_neg', 'global_nesting_depth_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+3501,"frozenset({'global_nesting_depth_median', 'call_depth_median_neg', 'trace_length_median_neg', 'trace_length_max_neg', 'call_depth_max_neg', 'global_nesting_depth_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+1294,"frozenset({'trace_length_median_neg', 'global_nesting_depth_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+1168,"frozenset({'trace_length_median_neg', 'global_nesting_depth_max_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+1139,"frozenset({'call_depth_max_neg', 'global_nesting_depth_max_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+393,"frozenset({'trace_length_median_neg', 'global_nesting_depth_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+2042,"frozenset({'global_nesting_depth_median', 'trace_length_max_neg', 'global_nesting_depth_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+2012,"frozenset({'global_nesting_depth_median', 'trace_length_median_neg', 'global_nesting_depth_max_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+1952,"frozenset({'call_depth_max_neg', 'global_nesting_depth_median', 'global_nesting_depth_max_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+1265,"frozenset({'call_depth_max_neg', 'trace_length_median_neg', 'global_nesting_depth_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+2222,"frozenset({'call_depth_max_neg', 'global_nesting_depth_median', 'trace_length_median_neg', 'global_nesting_depth_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+874,"frozenset({'global_nesting_depth_median', 'global_nesting_depth_max_neg', 'trace_length_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+1025,"frozenset({'global_nesting_depth_median', 'trace_length_median_neg', 'global_nesting_depth_max_neg'})",frozenset({'AFL_data'}),0.516666667,0.475,0.208333333,0.403225806,0.848896435,-0.037083333,0.87972973
+1279,"frozenset({'call_depth_max_neg', 'global_nesting_depth_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.525,0.475,0.208333333,0.396825397,0.835421888,-0.041041667,0.870394737
+2252,"frozenset({'call_depth_max_neg', 'global_nesting_depth_median', 'global_nesting_depth_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.525,0.475,0.208333333,0.396825397,0.835421888,-0.041041667,0.870394737
+1042,"frozenset({'global_nesting_depth_median', 'global_nesting_depth_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.525,0.475,0.208333333,0.396825397,0.835421888,-0.041041667,0.870394737
+997,"frozenset({'call_depth_max_neg', 'global_nesting_depth_median', 'global_nesting_depth_max_neg'})",frozenset({'AFL_data'}),0.525,0.475,0.208333333,0.396825397,0.835421888,-0.041041667,0.870394737
+265,"frozenset({'global_nesting_depth_median', 'global_nesting_depth_max_neg'})",frozenset({'AFL_data'}),0.525,0.475,0.208333333,0.396825397,0.835421888,-0.041041667,0.870394737
+380,"frozenset({'call_depth_max_neg', 'global_nesting_depth_max_neg'})",frozenset({'AFL_data'}),0.525,0.475,0.208333333,0.396825397,0.835421888,-0.041041667,0.870394737
+399,"frozenset({'global_nesting_depth_max_neg', 'call_depth_median_neg'})",frozenset({'AFL_data'}),0.525,0.475,0.208333333,0.396825397,0.835421888,-0.041041667,0.870394737

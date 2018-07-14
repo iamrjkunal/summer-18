@@ -1,0 +1,120 @@
+,antecedants,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+2669,"frozenset({'global_nesting_depth_max', 'trace_length_median', 'call_depth_max', 'call_depth_median', 'global_nesting_depth_median', 'trace_length_max'})",frozenset({'KLEE_data'}),0.091666667,0.675,0.091666667,1,1.481481481,0.029791667,inf
+969,"frozenset({'global_nesting_depth_max', 'call_depth_max', 'global_nesting_depth_median'})",frozenset({'KLEE_data'}),0.133333333,0.675,0.133333333,1,1.481481481,0.043333333,inf
+1514,"frozenset({'trace_length_max', 'global_nesting_depth_max', 'call_depth_max', 'global_nesting_depth_median'})",frozenset({'KLEE_data'}),0.091666667,0.675,0.091666667,1,1.481481481,0.029791667,inf
+328,"frozenset({'call_depth_max', 'global_nesting_depth_median'})",frozenset({'KLEE_data'}),0.133333333,0.675,0.133333333,1,1.481481481,0.043333333,inf
+1736,"frozenset({'trace_length_max', 'call_depth_max', 'global_nesting_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.091666667,0.675,0.091666667,1,1.481481481,0.029791667,inf
+1792,"frozenset({'trace_length_max', 'call_depth_max', 'global_nesting_depth_median', 'call_depth_median'})",frozenset({'KLEE_data'}),0.091666667,0.675,0.091666667,1,1.481481481,0.029791667,inf
+1897,"frozenset({'global_nesting_depth_max', 'call_depth_max', 'global_nesting_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.125,0.675,0.125,1,1.481481481,0.040625,inf
+1108,"frozenset({'call_depth_max', 'global_nesting_depth_median', 'call_depth_median'})",frozenset({'KLEE_data'}),0.133333333,0.675,0.133333333,1,1.481481481,0.043333333,inf
+1956,"frozenset({'global_nesting_depth_max', 'call_depth_max', 'global_nesting_depth_median', 'call_depth_median'})",frozenset({'KLEE_data'}),0.133333333,0.675,0.133333333,1,1.481481481,0.043333333,inf
+1081,"frozenset({'call_depth_max', 'global_nesting_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.125,0.675,0.125,1,1.481481481,0.040625,inf
+2014,"frozenset({'call_depth_max', 'global_nesting_depth_median', 'call_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.125,0.675,0.125,1,1.481481481,0.040625,inf
+2267,"frozenset({'global_nesting_depth_max', 'trace_length_median', 'call_depth_max', 'global_nesting_depth_median', 'trace_length_max'})",frozenset({'KLEE_data'}),0.091666667,0.675,0.091666667,1,1.481481481,0.029791667,inf
+2386,"frozenset({'global_nesting_depth_max', 'call_depth_max', 'call_depth_median', 'global_nesting_depth_median', 'trace_length_max'})",frozenset({'KLEE_data'}),0.091666667,0.675,0.091666667,1,1.481481481,0.029791667,inf
+776,"frozenset({'trace_length_max', 'call_depth_max', 'global_nesting_depth_median'})",frozenset({'KLEE_data'}),0.091666667,0.675,0.091666667,1,1.481481481,0.029791667,inf
+2504,"frozenset({'trace_length_median', 'call_depth_max', 'call_depth_median', 'global_nesting_depth_median', 'trace_length_max'})",frozenset({'KLEE_data'}),0.091666667,0.675,0.091666667,1,1.481481481,0.029791667,inf
+2562,"frozenset({'global_nesting_depth_max', 'trace_length_median', 'call_depth_max', 'call_depth_median', 'global_nesting_depth_median'})",frozenset({'KLEE_data'}),0.125,0.675,0.125,1,1.481481481,0.040625,inf
+982,"frozenset({'global_nesting_depth_max', 'call_depth_max', 'call_depth_median'})",frozenset({'KLEE_data'}),0.175,0.675,0.166666667,0.952380952,1.410934744,0.048541667,6.825
+1010,"frozenset({'global_nesting_depth_max', 'global_nesting_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.175,0.675,0.166666667,0.952380952,1.410934744,0.048541667,6.825
+244,"frozenset({'global_nesting_depth_max', 'call_depth_max'})",frozenset({'KLEE_data'}),0.175,0.675,0.166666667,0.952380952,1.410934744,0.048541667,6.825
+941,"frozenset({'global_nesting_depth_max', 'call_depth_max', 'trace_length_median'})",frozenset({'KLEE_data'}),0.166666667,0.675,0.158333333,0.95,1.407407407,0.045833333,6.5
+1926,"frozenset({'global_nesting_depth_max', 'call_depth_max', 'call_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.166666667,0.675,0.158333333,0.95,1.407407407,0.045833333,6.5
+1601,"frozenset({'trace_length_max', 'global_nesting_depth_max', 'global_nesting_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.141666667,0.675,0.133333333,0.941176471,1.394335512,0.037708333,5.525
+1542,"frozenset({'trace_length_max', 'global_nesting_depth_max', 'call_depth_max', 'call_depth_median'})",frozenset({'KLEE_data'}),0.133333333,0.675,0.125,0.9375,1.388888889,0.035,5.2
+1174,"frozenset({'call_depth_median', 'global_nesting_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.133333333,0.675,0.125,0.9375,1.388888889,0.035,5.2
+1456,"frozenset({'trace_length_max', 'global_nesting_depth_max', 'call_depth_max', 'trace_length_median'})",frozenset({'KLEE_data'}),0.133333333,0.675,0.125,0.9375,1.388888889,0.035,5.2
+610,"frozenset({'trace_length_max', 'global_nesting_depth_max', 'call_depth_max'})",frozenset({'KLEE_data'}),0.133333333,0.675,0.125,0.9375,1.388888889,0.035,5.2
+1985,"frozenset({'global_nesting_depth_max', 'call_depth_median', 'global_nesting_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.133333333,0.675,0.125,0.9375,1.388888889,0.035,5.2
+2325,"frozenset({'global_nesting_depth_max', 'trace_length_median', 'call_depth_max', 'call_depth_median', 'trace_length_max'})",frozenset({'KLEE_data'}),0.133333333,0.675,0.125,0.9375,1.388888889,0.035,5.2
+1820,"frozenset({'trace_length_max', 'call_depth_median', 'global_nesting_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.1,0.675,0.091666667,0.916666667,1.358024691,0.024166667,3.9
+2446,"frozenset({'global_nesting_depth_max', 'trace_length_median', 'call_depth_median', 'global_nesting_depth_median', 'trace_length_max'})",frozenset({'KLEE_data'}),0.1,0.675,0.091666667,0.916666667,1.358024691,0.024166667,3.9
+377,"frozenset({'global_nesting_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.183333333,0.675,0.166666667,0.909090909,1.346801347,0.042916667,3.575
+1024,"frozenset({'global_nesting_depth_max', 'call_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.175,0.675,0.158333333,0.904761905,1.340388007,0.040208333,3.4125
+1038,"frozenset({'global_nesting_depth_max', 'trace_length_median', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.083333333,0.675,0.075,0.9,1.333333333,0.01875,3.25
+1659,"frozenset({'trace_length_max', 'global_nesting_depth_max', 'trace_length_median', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.083333333,0.675,0.075,0.9,1.333333333,0.01875,3.25
+714,"frozenset({'trace_length_max', 'global_nesting_depth_max', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.083333333,0.675,0.075,0.9,1.333333333,0.01875,3.25
+885,"frozenset({'trace_length_max', 'global_nesting_depth_median_neg', 'trace_length_median'})",frozenset({'KLEE_data'}),0.075,0.675,0.066666667,0.888888889,1.316872428,0.016041667,2.925
+688,"frozenset({'trace_length_max', 'global_nesting_depth_max', 'global_nesting_depth_median'})",frozenset({'KLEE_data'}),0.15,0.675,0.133333333,0.888888889,1.316872428,0.032083333,2.925
+826,"frozenset({'trace_length_max', 'global_nesting_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.15,0.675,0.133333333,0.888888889,1.316872428,0.032083333,2.925
+401,"frozenset({'global_nesting_depth_median_neg', 'trace_length_median'})",frozenset({'KLEE_data'}),0.075,0.675,0.066666667,0.888888889,1.316872428,0.016041667,2.925
+223,"frozenset({'trace_length_max', 'global_nesting_depth_median_neg'})",frozenset({'KLEE_data'}),0.075,0.675,0.066666667,0.888888889,1.316872428,0.016041667,2.925
+1630,"frozenset({'trace_length_max', 'global_nesting_depth_max', 'call_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.141666667,0.675,0.125,0.882352941,1.307189542,0.029375,2.7625
+1846,"frozenset({'trace_length_max', 'call_depth_median', 'global_nesting_depth_median_neg', 'trace_length_median'})",frozenset({'KLEE_data'}),0.066666667,0.675,0.058333333,0.875,1.296296296,0.013333333,2.6
+904,"frozenset({'trace_length_max', 'call_depth_median', 'global_nesting_depth_median_neg'})",frozenset({'KLEE_data'}),0.066666667,0.675,0.058333333,0.875,1.296296296,0.013333333,2.6
+1187,"frozenset({'call_depth_median', 'global_nesting_depth_median_neg', 'trace_length_median'})",frozenset({'KLEE_data'}),0.066666667,0.675,0.058333333,0.875,1.296296296,0.013333333,2.6
+1094,"frozenset({'trace_length_median', 'call_depth_max', 'call_depth_median'})",frozenset({'KLEE_data'}),0.25,0.675,0.216666667,0.866666667,1.283950617,0.047916667,2.4375
+316,"frozenset({'call_depth_max', 'trace_length_median'})",frozenset({'KLEE_data'}),0.25,0.675,0.216666667,0.866666667,1.283950617,0.047916667,2.4375
+407,"frozenset({'trace_length_max_neg', 'global_nesting_depth_median'})",frozenset({'KLEE_data'}),0.058333333,0.675,0.05,0.857142857,1.26984127,0.010625,2.275
+1762,"frozenset({'trace_length_max', 'call_depth_max', 'call_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.216666667,0.675,0.183333333,0.846153846,1.253561254,0.037083333,2.1125
+1681,"frozenset({'trace_length_max', 'global_nesting_depth_max', 'call_depth_median', 'global_nesting_depth_median'})",frozenset({'KLEE_data'}),0.108333333,0.675,0.091666667,0.846153846,1.253561254,0.018541667,2.1125
+154,"frozenset({'trace_length_max', 'call_depth_max'})",frozenset({'KLEE_data'}),0.216666667,0.675,0.183333333,0.846153846,1.253561254,0.037083333,2.1125
+892,"frozenset({'trace_length_max', 'call_depth_median', 'global_nesting_depth_median'})",frozenset({'KLEE_data'}),0.108333333,0.675,0.091666667,0.846153846,1.253561254,0.018541667,2.1125
+749,"frozenset({'trace_length_max', 'call_depth_max', 'trace_length_median'})",frozenset({'KLEE_data'}),0.216666667,0.675,0.183333333,0.846153846,1.253561254,0.037083333,2.1125
+788,"frozenset({'trace_length_max', 'call_depth_max', 'call_depth_median'})",frozenset({'KLEE_data'}),0.216666667,0.675,0.183333333,0.846153846,1.253561254,0.037083333,2.1125
+200,"frozenset({'trace_length_max', 'global_nesting_depth_median'})",frozenset({'KLEE_data'}),0.158333333,0.675,0.133333333,0.842105263,1.247563353,0.026458333,2.058333333
+265,"frozenset({'global_nesting_depth_max', 'trace_length_median'})",frozenset({'KLEE_data'}),0.316666667,0.675,0.266666667,0.842105263,1.247563353,0.052916667,2.058333333
+277,"frozenset({'global_nesting_depth_max', 'global_nesting_depth_median'})",frozenset({'KLEE_data'}),0.208333333,0.675,0.175,0.84,1.244444444,0.034375,2.03125
+346,"frozenset({'call_depth_max', 'call_depth_median'})",frozenset({'KLEE_data'}),0.308333333,0.675,0.258333333,0.837837838,1.241241241,0.050208333,2.004166667
+42,frozenset({'call_depth_max'}),frozenset({'KLEE_data'}),0.308333333,0.675,0.258333333,0.837837838,1.241241241,0.050208333,2.004166667
+701,"frozenset({'trace_length_max', 'global_nesting_depth_max', 'call_depth_median'})",frozenset({'KLEE_data'}),0.15,0.675,0.125,0.833333333,1.234567901,0.02375,1.95
+386,"frozenset({'call_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.283333333,0.675,0.233333333,0.823529412,1.220043573,0.042083333,1.841666667
+660,"frozenset({'trace_length_max', 'global_nesting_depth_max', 'trace_length_median'})",frozenset({'KLEE_data'}),0.283333333,0.675,0.233333333,0.823529412,1.220043573,0.042083333,1.841666667
+362,"frozenset({'call_depth_max', 'global_nesting_depth_median_neg'})",frozenset({'KLEE_data'}),0.091666667,0.675,0.075,0.818181818,1.212121212,0.013125,1.7875
+1156,"frozenset({'call_depth_max', 'global_nesting_depth_median_neg', 'call_depth_median'})",frozenset({'KLEE_data'}),0.091666667,0.675,0.075,0.818181818,1.212121212,0.013125,1.7875
+130,"frozenset({'trace_length_max', 'global_nesting_depth_max'})",frozenset({'KLEE_data'}),0.308333333,0.675,0.25,0.810810811,1.201201201,0.041875,1.717857143
+396,"frozenset({'trace_length_median', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.175,0.675,0.141666667,0.80952381,1.199294533,0.023541667,1.70625
+872,"frozenset({'trace_length_max', 'trace_length_median', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.175,0.675,0.141666667,0.80952381,1.199294533,0.023541667,1.70625
+218,"frozenset({'trace_length_max', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.175,0.675,0.141666667,0.80952381,1.199294533,0.023541667,1.70625
+355,"frozenset({'trace_length_max_neg', 'call_depth_max'})",frozenset({'KLEE_data'}),0.083333333,0.675,0.066666667,0.8,1.185185185,0.010416667,1.625
+283,"frozenset({'global_nesting_depth_max', 'call_depth_median'})",frozenset({'KLEE_data'}),0.208333333,0.675,0.166666667,0.8,1.185185185,0.026041667,1.625
+404,"frozenset({'call_depth_median', 'global_nesting_depth_median'})",frozenset({'KLEE_data'}),0.166666667,0.675,0.133333333,0.8,1.185185185,0.020833333,1.625
+1047,"frozenset({'global_nesting_depth_max', 'call_depth_median', 'global_nesting_depth_median'})",frozenset({'KLEE_data'}),0.166666667,0.675,0.133333333,0.8,1.185185185,0.020833333,1.625
+1136,"frozenset({'trace_length_max_neg', 'call_depth_max', 'call_depth_median'})",frozenset({'KLEE_data'}),0.083333333,0.675,0.066666667,0.8,1.185185185,0.010416667,1.625
+848,"frozenset({'trace_length_max', 'call_depth_median', 'trace_length_median'})",frozenset({'KLEE_data'}),0.25,0.675,0.2,0.8,1.185185185,0.03125,1.625
+52,frozenset({'trace_length_median'}),frozenset({'KLEE_data'}),0.491666667,0.675,0.391666667,0.796610169,1.180163214,0.059791667,1.597916667
+58,frozenset({'global_nesting_depth_median'}),frozenset({'KLEE_data'}),0.241666667,0.675,0.191666667,0.793103448,1.174968072,0.028541667,1.570833333
+184,"frozenset({'trace_length_max', 'trace_length_median'})",frozenset({'KLEE_data'}),0.458333333,0.675,0.358333333,0.781818182,1.158249158,0.048958333,1.489583333
+412,"frozenset({'global_nesting_depth_median', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.075,0.675,0.058333333,0.777777778,1.152263374,0.007708333,1.4625
+14,frozenset({'trace_length_max'}),frozenset({'KLEE_data'}),0.483333333,0.675,0.375,0.775862069,1.149425287,0.04875,1.45
+208,"frozenset({'trace_length_max', 'call_depth_median'})",frozenset({'KLEE_data'}),0.258333333,0.675,0.2,0.774193548,1.146953405,0.025625,1.439285714
+30,frozenset({'global_nesting_depth_max'}),frozenset({'KLEE_data'}),0.441666667,0.675,0.333333333,0.754716981,1.118099231,0.035208333,1.325
+67,frozenset({'call_depth_median'}),frozenset({'KLEE_data'}),0.391666667,0.675,0.283333333,0.723404255,1.071710008,0.018958333,1.175
+434,"frozenset({'call_depth_median', 'global_nesting_depth_median_neg'})",frozenset({'KLEE_data'}),0.141666667,0.675,0.1,0.705882353,1.045751634,0.004375,1.105
+292,"frozenset({'trace_length_max_neg', 'global_nesting_depth_max'})",frozenset({'KLEE_data'}),0.108333333,0.675,0.075,0.692307692,1.025641026,0.001875,1.05625
+296,"frozenset({'global_nesting_depth_max', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.108333333,0.675,0.075,0.692307692,1.025641026,0.001875,1.05625
+421,"frozenset({'trace_length_max_neg', 'call_depth_median'})",frozenset({'KLEE_data'}),0.108333333,0.675,0.075,0.692307692,1.025641026,0.001875,1.05625
+1363,"frozenset({'global_nesting_depth_max_neg', 'global_nesting_depth_median_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.116666667,0.675,0.075,0.642857143,0.952380952,-0.00375,0.91
+101,frozenset({'global_nesting_depth_median_neg'}),frozenset({'KLEE_data'}),0.366666667,0.675,0.225,0.613636364,0.909090909,-0.0225,0.841176471
+93,frozenset({'call_depth_max_neg'}),frozenset({'KLEE_data'}),0.466666667,0.675,0.283333333,0.607142857,0.899470899,-0.031666667,0.827272727
+2625,"frozenset({'global_nesting_depth_median_neg', 'call_depth_max_neg', 'trace_length_max_neg', 'trace_length_median_neg', 'global_nesting_depth_max_neg'})",frozenset({'KLEE_data'}),0.083333333,0.675,0.05,0.6,0.888888889,-0.00625,0.8125
+2188,"frozenset({'global_nesting_depth_max_neg', 'trace_length_median_neg', 'global_nesting_depth_median_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.083333333,0.675,0.05,0.6,0.888888889,-0.00625,0.8125
+2108,"frozenset({'global_nesting_depth_max_neg', 'trace_length_max_neg', 'global_nesting_depth_median_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.083333333,0.675,0.05,0.6,0.888888889,-0.00625,0.8125
+77,frozenset({'trace_length_max_neg'}),frozenset({'KLEE_data'}),0.491666667,0.675,0.291666667,0.593220339,0.878844947,-0.040208333,0.798958333
+514,"frozenset({'global_nesting_depth_max_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.141666667,0.675,0.083333333,0.588235294,0.871459695,-0.012291667,0.789285714
+487,"frozenset({'trace_length_max_neg', 'trace_length_median_neg'})",frozenset({'KLEE_data'}),0.458333333,0.675,0.258333333,0.563636364,0.835016835,-0.051041667,0.744791667
+97,frozenset({'trace_length_median_neg'}),frozenset({'KLEE_data'}),0.491666667,0.675,0.275,0.559322034,0.828625235,-0.056875,0.7375
+528,"frozenset({'global_nesting_depth_median_neg', 'global_nesting_depth_max_neg'})",frozenset({'KLEE_data'}),0.166666667,0.675,0.091666667,0.55,0.814814815,-0.020833333,0.722222222
+1227,"frozenset({'global_nesting_depth_max_neg', 'trace_length_max_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.091666667,0.675,0.05,0.545454545,0.808080808,-0.011875,0.715
+2091,"frozenset({'global_nesting_depth_max_neg', 'trace_length_max_neg', 'trace_length_median_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.091666667,0.675,0.05,0.545454545,0.808080808,-0.011875,0.715
+1353,"frozenset({'global_nesting_depth_max_neg', 'trace_length_median_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.091666667,0.675,0.05,0.545454545,0.808080808,-0.011875,0.715
+497,"frozenset({'trace_length_max_neg', 'global_nesting_depth_median_neg'})",frozenset({'KLEE_data'}),0.291666667,0.675,0.158333333,0.542857143,0.804232804,-0.038541667,0.7109375
+563,"frozenset({'trace_length_median_neg', 'global_nesting_depth_median_neg'})",frozenset({'KLEE_data'}),0.291666667,0.675,0.158333333,0.542857143,0.804232804,-0.038541667,0.7109375
+1327,"frozenset({'trace_length_max_neg', 'trace_length_median_neg', 'global_nesting_depth_median_neg'})",frozenset({'KLEE_data'}),0.291666667,0.675,0.158333333,0.542857143,0.804232804,-0.038541667,0.7109375
+300,"frozenset({'global_nesting_depth_max', 'trace_length_median_neg'})",frozenset({'KLEE_data'}),0.108333333,0.675,0.058333333,0.538461538,0.797720798,-0.014791667,0.704166667
+102,frozenset({'call_depth_median_neg'}),frozenset({'KLEE_data'}),0.125,0.675,0.066666667,0.533333333,0.790123457,-0.017708333,0.696428571
+556,"frozenset({'call_depth_median_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.125,0.675,0.066666667,0.533333333,0.790123457,-0.017708333,0.696428571
+85,frozenset({'global_nesting_depth_max_neg'}),frozenset({'KLEE_data'}),0.2,0.675,0.1,0.5,0.740740741,-0.035,0.65
+473,"frozenset({'trace_length_max_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.291666667,0.675,0.141666667,0.485714286,0.71957672,-0.055208333,0.631944444
+1290,"frozenset({'trace_length_max_neg', 'trace_length_median_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.291666667,0.675,0.141666667,0.485714286,0.71957672,-0.055208333,0.631944444
+542,"frozenset({'trace_length_median_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.291666667,0.675,0.141666667,0.485714286,0.71957672,-0.055208333,0.631944444
+1258,"frozenset({'trace_length_max_neg', 'global_nesting_depth_median_neg', 'global_nesting_depth_max_neg'})",frozenset({'KLEE_data'}),0.125,0.675,0.058333333,0.466666667,0.691358025,-0.026041667,0.609375
+2131,"frozenset({'trace_length_max_neg', 'trace_length_median_neg', 'global_nesting_depth_median_neg', 'global_nesting_depth_max_neg'})",frozenset({'KLEE_data'}),0.125,0.675,0.058333333,0.466666667,0.691358025,-0.026041667,0.609375
+1374,"frozenset({'trace_length_median_neg', 'global_nesting_depth_median_neg', 'global_nesting_depth_max_neg'})",frozenset({'KLEE_data'}),0.125,0.675,0.058333333,0.466666667,0.691358025,-0.026041667,0.609375
+553,"frozenset({'global_nesting_depth_median_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.183333333,0.675,0.083333333,0.454545455,0.673400673,-0.040416667,0.595833333
+453,"frozenset({'trace_length_max_neg', 'global_nesting_depth_max_neg'})",frozenset({'KLEE_data'}),0.133333333,0.675,0.058333333,0.4375,0.648148148,-0.031666667,0.577777778
+523,"frozenset({'trace_length_median_neg', 'global_nesting_depth_max_neg'})",frozenset({'KLEE_data'}),0.133333333,0.675,0.058333333,0.4375,0.648148148,-0.031666667,0.577777778
+1248,"frozenset({'trace_length_max_neg', 'trace_length_median_neg', 'global_nesting_depth_max_neg'})",frozenset({'KLEE_data'}),0.133333333,0.675,0.058333333,0.4375,0.648148148,-0.031666667,0.577777778
+1393,"frozenset({'trace_length_median_neg', 'global_nesting_depth_median_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.15,0.675,0.058333333,0.388888889,0.576131687,-0.042916667,0.531818182
+1314,"frozenset({'trace_length_max_neg', 'global_nesting_depth_median_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.15,0.675,0.058333333,0.388888889,0.576131687,-0.042916667,0.531818182
+2170,"frozenset({'trace_length_max_neg', 'trace_length_median_neg', 'global_nesting_depth_median_neg', 'call_depth_max_neg'})",frozenset({'KLEE_data'}),0.15,0.675,0.058333333,0.388888889,0.576131687,-0.042916667,0.531818182

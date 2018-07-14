@@ -1,0 +1,28 @@
+455, output3.c, 8729, 2, 1, 1, 4, 2, main 
+411, output3.c, 8137, 131, 4, 2, 0, 0, scan_arg 
+414, output3.c, 8164, 185, 4, 2, 0, 1, scan_arg 
+416, output3.c, 8177, 186, 3, 2, 0, 1, scan_arg 
+418, output3.c, 8181, 187, 2, 2, 0, 1, scan_arg 
+411, output3.c, 8137, 279, 3, 2, 0, 0, scan_arg 
+414, output3.c, 8164, 317, 3, 2, 0, 1, scan_arg 
+416, output3.c, 8177, 318, 2, 2, 0, 1, scan_arg 
+418, output3.c, 8181, 319, 1, 2, 0, 1, scan_arg 
+411, output3.c, 8137, 382, 4, 2, 0, 0, scan_arg 
+414, output3.c, 8164, 404, 4, 2, 0, 1, scan_arg 
+416, output3.c, 8177, 405, 3, 2, 0, 1, scan_arg 
+418, output3.c, 8181, 406, 2, 2, 0, 1, scan_arg 
+460, output3.c, 8822, 407, 2, 1, 10, 2, main 
+461, output3.c, 8825, 408, 1, 1, 10, 2, main 
+446, output3.c, 8508, 413, 3, 2, 4, 1, get_default_format 
+463, output3.c, 8859, 414, 1, 1, 10, 3, main 
+
+
+
+
+
+
+
+
+
+435, output3.c, 8420, 438, 4, 2, 11, 1, print_numbers 
+437, output3.c, 8423, 439, 0, 2, 11, 1, print_numbers 

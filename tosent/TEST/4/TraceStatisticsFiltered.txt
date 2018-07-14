@@ -1,0 +1,6 @@
+522, output3.c, 7990, 8, 0, 4, 0, 0, test_unop 
+427, output3.c, 7115, 12, 0, 6, 1, 1, advance 
+431, output3.c, 7129, 13, -1, 6, 1, 1, unary_advance 
+487, output3.c, 7710, 14, -1, 5, 0, 0, unary_operator 
+532, output3.c, 8056, 15, -1, 4, 2, 1, two_arguments 
+541, output3.c, 8182, 16, -1, 3, 0, 0, posixtest 
